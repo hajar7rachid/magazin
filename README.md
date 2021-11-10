@@ -1,1 +1,1 @@
-# magazin
+# e_magazin
